@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecretKey": "apply mern stck",
+    "mongoUrl": "mongodb+srv://Kirill:1234Kirill@cluster0.bidjo.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
